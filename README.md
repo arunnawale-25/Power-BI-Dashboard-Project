@@ -25,3 +25,32 @@ The goal of this project is to demonstrate practical skills in data analysis, bu
 ---
 
 ## 📂 Project Structure
+📁 Data/
+└── Raw and cleaned datasets
+📁 PowerBI/
+└── Dashboard (.pbix file)
+📁 Python/
+└── Data cleaning and analysis scripts
+📄 README.md
+
+
+## 📈 Key Features
+- Data cleaning and transformation
+- KPI analysis and performance tracking
+- Interactive Power BI dashboard
+- Clear insights for business decision-making
+
+---
+
+## 🔍 Insights & Outcomes
+- Identified key trends and performance indicators
+- Highlighted areas for improvement
+- Provided visual insights for stakeholders
+- Improved understanding of business metrics
+
+---
+
+## 🚀 How to Use
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/project-name.git
